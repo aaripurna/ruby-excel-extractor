@@ -1,0 +1,4 @@
+/carts/*
+!/carts/.keep
+/outputs/*
+!/outputs/.keep
